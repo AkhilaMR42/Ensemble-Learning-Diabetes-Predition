@@ -1,6 +1,4 @@
-# ============================================
-# ENSEMBLE LEARNING PROJECT - RANDOM FOREST
-# ============================================
+
 
 # 1. Import Libraries
 import pandas as pd
